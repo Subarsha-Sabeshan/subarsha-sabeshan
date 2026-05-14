@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=200&section=header&text=Subarsha%20Sabeshan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
+<img src="https://www.canva.com/design/DAHJp07K9PM/Gkoc9FA08wdWOJxKuT7Zjw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0"/>
 
 </div>
 
