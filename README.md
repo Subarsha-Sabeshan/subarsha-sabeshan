@@ -1,7 +1,5 @@
 <div align="center">
-
-![header](https://raw.githubusercontent.com/Subarsha-Sabeshan/Subarsha-Sabeshan/main/header.svg)
-
+<sub> SUBARSHA SABESHAN </sub>
 </div>
 
 <br/>
@@ -125,7 +123,5 @@ An end-to-end AI system that lets users upload any research paper and interact w
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Subarsha-Sabeshan/Subarsha-Sabeshan/main/footer.svg" />
-<br/>
 <sub>Built with focus · Driven by curiosity · Powered by coffee ☕</sub>
 </div>
