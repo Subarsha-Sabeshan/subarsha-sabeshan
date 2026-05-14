@@ -1,5 +1,5 @@
 
-<div align="center"><svg viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg" width="100%" height="70"><text x="350" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="300" fill="#8b8b8b" text-anchor="middle" letter-spacing="10">SUBARSHA SABESHAN</text></svg></div>
+<div align="center"><svg viewBox="5 5 900 90" xmlns="http://www.w3.org/2000/svg" width="1000%" height="1000"><text x="5550" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="5000" font-weight="1000" fill="#8b8b8b" text-anchor="middle" letter-spacing="10">SUBARSHA SABESHAN</text></svg></div>
 
 
 <br/>
@@ -87,12 +87,12 @@ An end-to-end AI system that lets users upload any research paper and interact w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Subarsha-Sabeshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subarsha-Sabeshan&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarsha-Sabeshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" width="40%" />
+
 
 </div>
 
