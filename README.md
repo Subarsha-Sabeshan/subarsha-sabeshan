@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:534AB7,100:1D9E75&height=200&section=header&text=Subarsha%20Sabeshan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=ffffff&descSize=18&animation=fadeIn" alt="header" width="100%"/>
+![header](https://raw.githubusercontent.com/Subarsha-Sabeshan/Subarsha-Sabeshan/main/header.svg)
 
 </div>
 
@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subarsha-sabeshan-17a1b1355)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subarsha-Sabeshan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subarshasabeshan2003@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Subarsha-Sabeshan&style=for-the-badge&color=534AB7)
 
 </div>
 
@@ -126,9 +125,7 @@ An end-to-end AI system that lets users upload any research paper and interact w
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1D9E75,100:534AB7&height=100&section=footer" alt="footer" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Subarsha-Sabeshan/Subarsha-Sabeshan/main/footer.svg" />
+<br/>
 <sub>Built with focus · Driven by curiosity · Powered by coffee ☕</sub>
-
 </div>
