@@ -1,6 +1,6 @@
-<div align="center">
-<sub> SUBARSHA SABESHAN </sub>
-</div>
+
+<div align="center"><svg viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg" width="100%" height="70"><text x="350" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="300" fill="#8b8b8b" text-anchor="middle" letter-spacing="10">SUBARSHA SABESHAN</text></svg></div>
+
 
 <br/>
 
