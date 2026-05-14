@@ -1,74 +1,133 @@
-<h1 align="center">Hey there, I'm Subarsha Sabeshan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer</b> · Undergraduate at <b>ICBT Campus Colombo</b> × <b>Cardiff Metropolitan University</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=200&section=header&text=Subarsha%20Sabeshan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Subarsha-Sabeshan"><img src="https://img.shields.io/badge/GitHub-Subarsha--Sabeshan-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/subarsha-sabeshan-17a1b1355"><img src="https://img.shields.io/badge/LinkedIn-Subarsha%20Sabeshan-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:subarshasabeshan2003@gmail.com"><img src="https://img.shields.io/badge/Email-subarshasabeshan2003@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
 
----
+<br/>
 
-## 🙋‍♂️ About Me
+<div align="center">
 
-I'm a passionate **Software Engineer** currently pursuing my degree at ICBT Campus Colombo, affiliated with **Cardiff Metropolitan University**. I love building things that combine clean code with smart technology — from full-stack web apps to AI-powered systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subarsha-sabeshan-17a1b1355)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subarsha-Sabeshan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subarshasabeshan2003@gmail.com)
 
-- 🎓 Studying **Software Engineering** at ICBT × Cardiff Met
-- 🤖 Currently working on my **Final Year Project** — an AI/ML-powered RAG system
-- 🌱 Always learning, always building
-- 📍 Based in Sri Lanka
+</div>
 
 ---
 
-## 🚀 Final Year Project
+## ✦ About Me
 
-### 🧠 Personal Research Paper Explainer & QA Bot
-> A **Retrieval-Augmented Generation (RAG) System** Powered by Local LLMs
+```yaml
+name        : Subarsha Sabeshan
+role        : Software Engineer
+education   : ICBT Campus Colombo × Cardiff Metropolitan University
+focus       : Full Stack Development · AI/ML · Mobile Applications
+status      : Final Year Undergraduate
+location    : Sri Lanka 🇱🇰
+```
 
-An intelligent system that lets users upload research papers and interact with them through natural language — asking questions, getting explanations, and extracting insights — all powered by local large language models for privacy and speed.
+> *"I build things that think — from intelligent systems to seamless user experiences."*
+
+---
+
+## 🧠 Final Year Project
+
+<div align="center">
+
+### 📄 Personal Research Paper Explainer & QA Bot
+**A Retrieval-Augmented Generation (RAG) System Powered by Local LLMs**
+
+</div>
+
+An end-to-end AI system that lets users upload any research paper and interact with it through natural language — ask questions, request summaries, and extract key insights — all running locally for privacy and speed.
+
+| Component | Technology |
+|-----------|-----------|
+| 🔍 Retrieval | Vector similarity search (FAISS / ChromaDB) |
+| 🧠 LLM | Local models via Ollama |
+| 📚 Ingestion | PDF parsing + chunking pipeline |
+| 💬 Interface | Conversational QA frontend |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🎨 Frontend
 
-**Backend & Mobile**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</div>
 
-**AI / Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+<br/>
+
+### ⚙️ Backend & Mobile
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,dart&theme=dark" />
+</div>
+
+<br/>
+
+### 🤖 AI & Data Science
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi&theme=dark" />
+</div>
+
+<br/>
+
+### 🗄️ Databases & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,docker&theme=dark" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subarsha-Sabeshan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarsha-Sabeshan&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Subarsha-Sabeshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subarsha-Sabeshan&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subarsha-Sabeshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" width="40%" />
+
+</div>
 
 ---
 
-## 📬 Get In Touch
+## 🏆 GitHub Trophies
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/subarsha-sabeshan-17a1b1355)
-- 📧 [subarshasabeshan2003@gmail.com](mailto:subarshasabeshan2003@gmail.com)
-- 🐙 [GitHub](https://github.com/Subarsha-Sabeshan)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Subarsha-Sabeshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Build things that matter. Learn things that challenge you."</i>
-</p>
+## 📬 Connect With Me
 
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [subarsha-sabeshan-17a1b1355](https://www.linkedin.com/in/subarsha-sabeshan-17a1b1355) |
+| 🐙 GitHub | [Subarsha-Sabeshan](https://github.com/Subarsha-Sabeshan) |
+| 📧 Email | [subarshasabeshan2003@gmail.com](mailto:subarshasabeshan2003@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=100&section=footer" width="100%"/>
+
+<sub>Built with focus · Driven by curiosity · Powered by coffee ☕</sub>
+
+</div>
